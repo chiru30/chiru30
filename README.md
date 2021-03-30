@@ -5,7 +5,6 @@
 
 
 
-![image](https://user-images.githubusercontent.com/73631715/112939273-cdb81c00-9148-11eb-83c9-1f2b352ce0c8.jpeg)
-)
+![image](https://github.com/chiru30/chiru30/blob/main/0BCF0D86-B7D2-4493-A387-B3A819B361AC.jpeg)
 
 
