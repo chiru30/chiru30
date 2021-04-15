@@ -8,19 +8,10 @@
 - 🌱 I’m currently exploring Data Science and Machine Learning
 - 📫 How to reach me **chiranthana30rr@gmail.com**
 
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiru30&label=Profile%20views&color=0e75b6&style=flat" alt="chiru30" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiru30" alt="chiru30" /></a> </p>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chiranthana-r-r-232385200/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/chiranthana-r-r-232385200/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdi8xgxgpsixjuheihvt04a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucdi8xgxgpsixjuheihvt04a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chiranthana-r-r-232385200" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chiranthana-r-r-232385200" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/chiranthana r r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="chiranthana r r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,5 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiru30&show_icons=true&locale=en" alt="chiru30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiru30&" alt="chiru30" /></p>
-
-
