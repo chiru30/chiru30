@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Chiranthana R R <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">Hi , I'm Chiranthana R R <img src="https://media.tenor.com/images/99956fb60812b668308dd99373102ed5/tenor.gif" width="150"></h1>
 <h3 align="center">Data Enthusiast</h3>
 <h1 align="center"> <img src="https://media0.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e47ywi6hmkedmk9ukd1hjnplttdw3d7rb63jqfladk0&rid=200w.webp&ct=g.gif"></h1>
 
+<h3 align="right"> <img src ="https://github.com/chiru30/chiru30/blob/main/0BCF0D86-B7D2-4493-A387-B3A819B361AC.jpeg" width ="250"></h3>
 
 
-![image](https://github.com/chiru30/chiru30/blob/main/0BCF0D86-B7D2-4493-A387-B3A819B361AC.jpeg)
 
 - 🔭 I’m currently working as a Data Science intern at @Technocolabs and TSF
 - 🌱 I’m currently exploring Data Science and Machine Learning
