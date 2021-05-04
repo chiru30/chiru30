@@ -2,8 +2,11 @@
 <h3 align="center">Data Enthusiast</h3>
 <h1 align="center"> <img src="https://media0.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e47ywi6hmkedmk9ukd1hjnplttdw3d7rb63jqfladk0&rid=200w.webp&ct=g.gif"></h1>
 
-- 🔭 I’m currently working as a Data Science intern at @Technocolabs and TSF
-- 🌱 I’m currently exploring Data Science and Machine Learning
+- 🔭 Data Science Technical Team member at @CodeChefSRm
+- 💻 Machine learning developer at @Aakash Research Labs
+- 🌱 I’m currently exploring Data Science and Machine Learning along with deep learning
+- 🎖 Top 10 mention in Hacktrix hackathon by @IEEE SRMIST
+- 🎖 Top 5 teams in E-hack hackathon
 - 📫 How to reach me **chiranthana30rr@gmail.com**
 <h3 align="center">Connect with me:</h3>
 
