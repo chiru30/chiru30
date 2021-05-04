@@ -7,6 +7,8 @@
 - 🌱 I’m currently exploring Data Science and Machine Learning along with deep learning
 - 🎖 Top 10 mention in Hacktrix hackathon by @IEEE SRMIST
 - 🎖 Top 5 teams in E-hack hackathon
+- <a href="https://chiranthana30rr.medium.com/exploratory-data-analysis-beyond-statistics-for-business-development-c27916152310"> Read my Recent Blog on Exploratory Data Analysis Beyond Statistics for Business Development </i> </a>
+
 - 📫 How to reach me **chiranthana30rr@gmail.com**
 <h3 align="center">Connect with me:</h3>
 
