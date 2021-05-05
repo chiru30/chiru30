@@ -34,7 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiru30&show_icons=true&locale=en" alt="chiru30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiru30&" alt="chiru30" /></p>
-<br><br>
-![Chiru's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiru30&theme=dracula&layout=compact&title_color=FF69B4)
-<br>
 
+![Chiru's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiru30&theme=github)
