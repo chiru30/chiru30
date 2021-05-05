@@ -7,6 +7,7 @@
 - 🌱 I’m currently exploring Data Science and Machine Learning along with deep learning
 - 🎖 Top 10 mention in Hacktrix hackathon by @IEEE SRMIST
 - 🎖 Top 5 team in E-hack hackathon
+- Check out my new project on groundwater deterioration <a href="https://share.streamlit.io/chiru30/aqua.analyst/main/main.py"> 
 - <a href="https://chiranthana30rr.medium.com/exploratory-data-analysis-beyond-statistics-for-business-development-c27916152310"> Read my Recent Blog on Exploratory Data Analysis Beyond Statistics for Business Development </i> </a>
 
 - 📫 How to reach me **chiranthana30rr@gmail.com**
@@ -22,6 +23,8 @@
 <a href="https://medium.com/@chiranthana30rr" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a></h3>
+
+
 
 <br/>
 
