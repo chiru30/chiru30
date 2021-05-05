@@ -23,9 +23,6 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a></h3>
 
-<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwju852jrbPwAhVs4nMBHST4D4EQFjAFegQIAhAD&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCDi8xgxgPsixJuheihvT04A&usg=AOvVaw1erMYh4KBHLWH7jSWvUVV7" target="blank">
-  <img align="left" src="https://github.com/chiru30/chiru30/blob/master/Profile%20generator/youtube-tumb.jpg" alt="youtube"  width="25px" height='23.5' />
-</a>
 
 <br/>
 
