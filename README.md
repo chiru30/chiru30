@@ -4,6 +4,7 @@
 
 - 🔭 Data Science Technical Team member at @CodeChefSRM
 - 💻 Machine learning developer at @Aakash Research Labs
+- 👩🏻‍💻 Data Analytics internship at Forage @KPMG
 - 🌱 I’m currently exploring Data Science and Machine Learning along with deep learning
 - 🎖 Top 10 mention in Hacktrix hackathon by @IEEE SRMIST
 - 🎖 Top 5 team in E-hack hackathon
