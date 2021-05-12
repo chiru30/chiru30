@@ -38,5 +38,3 @@
 </p>
 
 ![Chiru's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiru30&theme=github)
-
-![github trophy](https://gittrophy.com?entity=chiru30&year=2021)
