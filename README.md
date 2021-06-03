@@ -35,4 +35,5 @@
 <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=chiru30&theme=dark" alt="chiru30" />
 </p>
 
-![Chiru's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiru30&theme=github)
+#![Chiru's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiru30&theme=github)
+![Chiru's Activity Graph](https://activity-graph.herokuapp.com/graph?username=chiru30) 
