@@ -25,8 +25,10 @@ Hi , <a href="https://chiranthana.herokuapp.com/"> I'm Chiranthana R R </i> </a>
 
 <a href="https://medium.com/@chiranthana30rr" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a></h3>
 
+<a href="https://www.kaggle.com/chiranthanarr/account" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%23292929.svg?&style=for-the-badge&logo=kaggle&logoColor=blue alt=medium style="margin-bottom: 5px;" />
+</a></h3>
 
 <br/>
 
