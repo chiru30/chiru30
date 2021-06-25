@@ -46,4 +46,4 @@ Hi , <a href="https://chiranthana.herokuapp.com/"> I'm Chiranthana R R </i> </a>
 </p>
 
 
-![](https://activity-graph.herokuapp.com/graph?username=chiru30&theme=github)
+![](https://activity-graph.herokuapp.com/graph?username=chiru30)
