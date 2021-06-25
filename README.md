@@ -45,5 +45,5 @@ Hi , <a href="https://chiranthana.herokuapp.com/"> I'm Chiranthana R R </i> </a>
 <img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=chiru30&theme=dark" alt="chiru30" />
 </p>
 
-![Chiru's Activity Graph](https://activity-graph.herokuapp.com/graph?username=chiru30) 
 
+![](https://activity-graph.herokuapp.com/graph?username=chiru30&theme=github)
