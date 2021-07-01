@@ -39,7 +39,10 @@ Hi , I'm <a href="https://chiranthana.herokuapp.com/">  Chiranthana R R </i> </a
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   </a> <a href="https://pytorch.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" alt="pytorch" width="80" height="40"/> </a>
+ </a> <a href="https://numpy.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="80" height="40"/> </a>
+ </a> <a href="https://streamlit.io" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/streamlitio/images/abda5a6f-0d62-4d24-a16d-f7132016b2ff.svg" alt="streamlit" width="80" height="40"/> </a>
  </p>
+ 
 
 ![Chiru's github stats](https://github-readme-stats.vercel.app/api?username=chiru30&show_icons=true&theme=dark&count_private=true)
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=chiru30&theme=dark&hide_langs_below=4&layout=compact'/>  
