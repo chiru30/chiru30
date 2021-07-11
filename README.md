@@ -28,7 +28,11 @@ Hi , I'm <a href="https://share.streamlit.io/chiru30/portfolio/main/main.py">  C
 
 <a href="https://www.kaggle.com/chiranthanarr/account" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%23292929.svg?&style=for-the-badge&logo=kaggle&logoColor=blue alt=medium style="margin-bottom: 5px;" />
-</a></h3>
+</a>
+<a href="https://share.streamlit.io/chiru30/portfolio/main/main.py" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%23292929.svg?&style=for-the-badge&logo=Portfolio&logoColor=red alt=medium style="margin-bottom: 5px;" />
+</a>
+</h3>
 
 <br/>
 
