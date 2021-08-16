@@ -7,7 +7,7 @@ Hi , I'm <a href="https://share.streamlit.io/chiru30/portfolio/main/main.py">  C
 - 🔭 Data Science Technical Team member at @CodeChefSRM
 - 💻 Machine learning developer at @Aakash Research Labs
 - 👩🏻‍💻 Technical Lead intern at Interestopedia
-- 🌱 I’m currently exploring Data Science and Machine Learning along with deep learning
+- 🌱 I’m currently exploring Data Science , Machine Learning and Deep Learning
 - 🎖 <a href="https://devfolio.co/submissions/aquaanalyst-327b"> Top 10 mention in Hacktrix hackathon by @IEEE SRMIST </i> </a>
 - <a href="https://chiranthana30rr.medium.com/exploratory-data-analysis-beyond-statistics-for-business-development-c27916152310"> Read my Recent Blog on Exploratory Data Analysis Beyond Statistics for Business Development </i> </a>
 
