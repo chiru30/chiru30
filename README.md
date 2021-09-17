@@ -1,8 +1,12 @@
 <h1 align="center"> 
 Hi , I'm <a href="https://share.streamlit.io/chiru30/portfolio/main/main.py">  Chiranthana R R </i> </a>
 <img src="https://media.tenor.com/images/99956fb60812b668308dd99373102ed5/tenor.gif" width="150"></h1>
+
+<h3 align="center"><img src="https://komarev.com/ghpvc/?username= chiru30"/>
+<br>
 <h3 align="center">Data Enthusiast</h3>
 <h1 align="center"> <img src="https://media0.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e47ywi6hmkedmk9ukd1hjnplttdw3d7rb63jqfladk0&rid=200w.webp&ct=g.gif"></h1>
+
 
 - 🔭 Data Science Technical Team member at @CodeChefSRM
 - 💻 Machine learning developer at @Aakash Research Labs
