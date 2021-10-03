@@ -51,12 +51,14 @@ Hi , I'm <a href="https://share.streamlit.io/chiru30/portfolio/main/main.py">  C
  </p>
  
 
-![Chiru's github stats](https://github-readme-stats.vercel.app/api?username=chiru30&show_icons=true&theme=dark&count_private=true)
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=chiru30&theme=dark&hide_langs_below=4&layout=compact'/>  
+![Chiru's github stats](https://github-readme-stats.vercel.app/api?username=chiru30&show_icons=true&theme=tokyonight&count_private=true)
+<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=chiru30&theme=tokyonight" alt="chiru30" /> 
 <p align="center"> 
-<img width="450"  src="https://github-readme-streak-stats.herokuapp.com/?user=chiru30&theme=dark" alt="chiru30" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=chiru30&theme=tokyonight&hide_langs_below=4&layout=compact'/>  
+
 
 </p>
 
 
-![](https://activity-graph.herokuapp.com/graph?username=chiru30)
+[![Chiru's github activity graph](https://activity-graph.herokuapp.com/graph?username=chiru30&theme=dracula)](https://github.com/chiru30/github-readme-activity-graph)
+
