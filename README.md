@@ -52,10 +52,9 @@ Hi , I'm <a href="https://share.streamlit.io/chiru30/portfolio/main/main.py">  C
  
 
 ![Chiru's github stats](https://github-readme-stats.vercel.app/api?username=chiru30&show_icons=true&theme=tokyonight&count_private=true)
-<img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=chiru30&theme=tokyonight" alt="chiru30" /> 
+<img width="400" src='https://github-readme-stats.vercel.app/api/top-langs/?username=chiru30&theme=tokyonight&hide_langs_below=4&layout=compact'/>  
 <p align="center"> 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=chiru30&theme=tokyonight&hide_langs_below=4&layout=compact'/>  
-
+<img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=chiru30&theme=tokyonight" alt="chiru30" /> 
 
 </p>
 
