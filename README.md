@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Hi , I'm <a href="https://share.streamlit.io/chiru30/portfolio/main/main.py">  Chiranthana R R </i> </a>
+Hi , I'm  Chiranthana Rampura 
 <img src="https://media.tenor.com/images/99956fb60812b668308dd99373102ed5/tenor.gif" width="150"></h1>
 
 <h3 align="center"><img src="https://komarev.com/ghpvc/?username= chiru30"/>
