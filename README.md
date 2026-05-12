@@ -14,7 +14,9 @@
 
 ## About
 
-PBEEE (FRQNT) Master’s scholar and **M.Sc. graduate** (Concordia), recognized for research excellence in Québec. My work in **test-time adaptation** has delivered **4%+ robustness gains** on autonomous-systems benchmarks **without ground-truth labels at inference**. I focus on turning controlled research setups into **systems that hold up under real-world drift**—especially for **trajectory prediction**, **computer vision**, and **ML in the wild**.
+I am a PBEEE-awarded AI researcher and M.Sc. CS graduate — ranked 4th in Quebec province-wide for research excellence, received Mitacs Globalink Graduate Fellowship Award, with a peer-reviewed publication at IEEE AVSS 2026, end-to-end engineering experience across the full ML lifecycle. My graduate research has been defined by a singular focus on solving this gap between a model that works in a notebook and one that works in production is not a deployment problem, it is a robustness and generalisation problem, solvable at the architecture level.
+
+The most dangerous thing in machine learning is a practitioner who can train a model but cannot explain why it fails. My career was deliberately constructed to prevent that. I began with statistics, the mathematical bedrock, and built upward through classical ML, deep learning, multimodal systems, and finally adaptive inference. Every layer informed the one above it.
 
 - **Location:** Montréal, QC, Canada  
 - **Email:** [chiranthana30rr@gmail.com](mailto:chiranthana30rr@gmail.com)  
