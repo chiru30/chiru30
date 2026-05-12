@@ -2,7 +2,8 @@
 
 # Hi, I'm Chiranthana Rampura
 
-<img src="https://media.tenor.com/images/99956fb60812b668308dd99373102ed5/tenor.gif" width="150" alt="wave" />
+<img src="https://media.tenor.com/images/99956fb60812b668308dd99373102ed5/tenor.gif" width="300" alt="wave" />
+<img src="https://github.com/chiru30/chiru30/blob/main/IMG_4476.JPG"  width="300" alt="wave" />
 
 ***AI/ML Researcher***
 
